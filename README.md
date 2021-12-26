@@ -9,8 +9,7 @@ Kelompok 5
 2301864846 - Kevin Sam Andaria
 
 Paper:
-https://binusianorg-my.sharepoint.com/personal/renaldy002_binus_ac_id/_layouts/15/guestaccess.aspx?docid=0a36f7f4ab91b41199691e904b96b1fd6&authkey=AfweRsrL9nE8Z1WwCjJ7s-4&e=NCOSmB
-
+https://binusianorg-my.sharepoint.com/personal/renaldy002_binus_ac_id/_layouts/15/guestaccess.aspx?docid=0a36f7f4ab91b41199691e904b96b1fd6&authkey=AfweRsrL9nE8Z1WwCjJ7s-4&e=VAiQ9F
 Code:
 https://colab.research.google.com/drive/1SxceLBcXubqbE6s4Vva00bCcYIJcRUeo?usp=sharing
 
